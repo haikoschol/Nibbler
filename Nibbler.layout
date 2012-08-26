@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+    <ActiveTarget index="-1" />
+    <File name="Nibbler.cpp" open="1" top="1">
+        <Cursor position="326" topLine="6" />
+    </File>
+    <File name="Nibbler.h" open="1" top="0">
+        <Cursor position="1603" topLine="38" />
+    </File>
+    <File name="Sprite.cpp" open="1" top="0">
+        <Cursor position="292" topLine="3" />
+    </File>
+    <File name="Sprite.h" open="1" top="0">
+        <Cursor position="259" topLine="5" />
+    </File>
+    <File name="Timer.cpp" open="1" top="0">
+        <Cursor position="281" topLine="0" />
+    </File>
+    <File name="Timer.h" open="1" top="0">
+        <Cursor position="552" topLine="0" />
+    </File>
+    <File name="main.cpp" open="1" top="0">
+        <Cursor position="1849" topLine="9" />
+    </File>
+</CodeBlocks_layout_file>
+[Editors]
+Order=0,1,5,6,2,4,8
+Focused=2
+[Editor_0]
+Open=1
+Top=0
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_1]
+Open=1
+Top=0
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_2]
+Open=1
+Top=1
+CursorCol=1
+CursorRow=7
+TopLine=1
+LeftChar=1
+[Editor_3]
+Open=0
+Top=0
+[Editor_4]
+Open=1
+Top=0
+CursorCol=17
+CursorRow=7
+TopLine=1
+LeftChar=1
+[Editor_5]
+Open=1
+Top=0
+CursorCol=1
+CursorRow=1
+TopLine=1
+LeftChar=1
+[Editor_6]
+Open=1
+Top=0
+CursorCol=23
+CursorRow=5
+TopLine=1
+LeftChar=1
+[Editor_7]
+Open=0
+Top=0
+[Editor_8]
+Open=1
+Top=0
+CursorCol=11
+CursorRow=3
+TopLine=1
+LeftChar=1

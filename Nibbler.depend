@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1135025461 /home/hs/Code/SDL/Nibbler/Nibbler.cpp
+	"Nibbler.h"
+	<iterator>
+
+1135029316 /home/hs/Code/SDL/Nibbler/Nibbler.h
+	<string>
+	<list>
+	<SDL/SDL.h>
+	"Sprite.h"
+	"Timer.h"
+	"Item.h"
+
+1135028091 /home/hs/Code/SDL/Nibbler/Sprite.h
+	<string>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1135028803 /home/hs/Code/SDL/Nibbler/Sprite.cpp
+	<cstdlib>
+	"Sprite.h"
+
+1135028034 /home/hs/Code/SDL/Nibbler/main.cpp
+	<cstdlib>
+	<string>
+	<vector>
+	<SDL/SDL.h>
+	"Nibbler.h"
+	"Timer.h"
+
+1134949588 /home/hs/Code/SDL/Nibbler/Timer.cpp
+	"Timer.h"
+
+1135026028 /home/hs/Code/SDL/Nibbler/Timer.h
+	<SDL/SDL.h>
+
+1134923347 /home/hs/Code/SDL/Nibbler/Motion.cpp
+	"Motion.h"
+
+1134925615 /home/hs/Code/SDL/Nibbler/Motion.h
+	<SDL/SDL.h>
+
+1135028838 /home/hs/Code/SDL/Nibbler/Item.cpp
+	<cstdlib>
+	"Item.h"
+
+1135027188 /home/hs/Code/SDL/Nibbler/Item.h
+	<string>
+	"Sprite.h"
+
